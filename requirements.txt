@@ -1,0 +1,21 @@
+# Backend
+fastapi
+uvicorn
+
+# Scraping
+requests
+beautifulsoup4
+pypdf
+
+# Embeddings (local, free)
+sentence-transformers
+torch
+
+# Vector DB
+qdrant-client
+
+# Environment
+python-dotenv
+
+# Utilities
+tqdm
