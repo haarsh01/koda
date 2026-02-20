@@ -23,6 +23,6 @@ Koda is different:
 
 ---
 
-## 🧩 How Koda Works (High Level)
+## 🧩 How Koda Works 
 
-When you ask a question, Koda follows this flow:
+
